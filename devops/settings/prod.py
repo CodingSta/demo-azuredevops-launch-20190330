@@ -1,7 +1,7 @@
 import os
 from .common import *
 
-DEBUG = False
+DEBUG = True
 
 INSTALLED_APPS += ['storages']
 
